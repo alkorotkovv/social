@@ -18,13 +18,13 @@
 ## Скриншоты
 
 #Главная
-![alt text](img/1.jpg)
+![alt text](img/1.png)
 
 #Поиск
-![alt text](img/2.jpg)
+![alt text](img/2.png)
 
 #Избранное
-![alt text](img/3.jpg)
+![alt text](img/3.png)
 
 #Профиль юзера
-![alt text](img/4.jpg)
+![alt text](img/4.png)
