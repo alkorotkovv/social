@@ -14,3 +14,17 @@
 - Vue
 - Tailwind
 - Pinia
+
+## Скриншоты
+
+#Главная
+![alt text](img/1.jpg)
+
+#Поиск
+![alt text](img/2.jpg)
+
+#Избранное
+![alt text](img/3.jpg)
+
+#Профиль юзера
+![alt text](img/4.jpg)
